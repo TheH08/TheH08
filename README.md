@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false&username=TheH08" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=false&username=TheH08" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false&username=TheH08#3922" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=false&username=TheH08#3922" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -39,14 +39,19 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="115" height="100" alt="discord logo"  />
+  <a href="mailto:hugolinhares92@gmail.com?cc=asdfasdf&?subject=weadf&body=wertwert" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="115" height="100" alt="discord logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/hugo-linhares-683335243/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="115" height="100" alt="linkedin logo"  />
   </a>
-  <a href="hugolinhares92@gmail.com" target="_blank">
+  <a href="mailto:hugolinhares92@gmail.com?cc=asdfasdf" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="115" height="100" alt="gmail logo"  />
   </a>
 </div>
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+###
 
+<img src="https://raw.githubusercontent.com/TheH08#3922/TheH08#3922/blob/output/snake.svg" alt="Snake animation" />
+
+###
