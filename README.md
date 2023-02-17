@@ -22,7 +22,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="50" width="62" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" width="62" alt="flutter logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="50" width="62" alt="nestjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" width="62" alt="nodejs logo"  />
 </div>
+
+###
+
+<h1 align="left">About me:</h1>
+
+###
+
+<h6 align="left">-> 🥋 since 2021 an master in creating bugs<br> -> 📚 I'm currently learning JS, NodeJS and NestJS.<br> -> 🎯 Formations: <br>• 2021 ~ 2023: Systems development course in SENAI-MG<br>• Complete C# MasterClass;<br>• C# IO I Ultimate Guide;<br>• Easy C# by Windows Forms Practical Projects Beginners to pro;<br>• C# Intermediate: Classes, Interfaces and OOP;<br>• Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noSQL, React, hooks, Redux, Design Patterns<br>AND +<br><br><br>>INTERMEDIARY ENGLISH</h6>
 
 ###
 
@@ -39,19 +48,9 @@
 ###
 
 <div align="left">
-  <a href="mailto:hugolinhares92@gmail.com?cc=asdfasdf&?subject=weadf&body=wertwert" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="115" height="100" alt="discord logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/hugo-linhares-683335243/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="115" height="100" alt="linkedin logo"  />
   </a>
-  <a href="mailto:hugolinhares92@gmail.com?cc=asdfasdf" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="115" height="100" alt="gmail logo"  />
-  </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/TheH08#3922/TheH08#3922/blob/output/snake.svg" alt="Snake animation" />
 
 ###
