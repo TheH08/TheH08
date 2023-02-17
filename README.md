@@ -31,7 +31,7 @@
 
 ###
 
-<h6 align="left">-> 🥋 since 2021 an master in creating bugs<br> -> 📚 I'm currently learning JS, NodeJS and NestJS.<br> -> 🎯 Formations: <br>• 2021 ~ 2023: Systems development course in SENAI-MG<br>• Complete C# MasterClass;<br>• C# IO I Ultimate Guide;<br>• Easy C# by Windows Forms Practical Projects Beginners to pro;<br>• C# Intermediate: Classes, Interfaces and OOP;<br>• Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noSQL, React, hooks, Redux, Design Patterns<br>AND +<br><br><br>>INTERMEDIARY ENGLISH</h6>
+<h4 align="left">-> 🥋 since 2021 an master in creating bugs<br> -> 📚 I'm currently learning JS, NodeJS and NestJS.<br> -> 🎯 Formations: <br>• 2021 ~ 2023: Systems development course in SENAI-MG<br>• Complete C# MasterClass;<br>• C# IO I Ultimate Guide;<br>• Easy C# by Windows Forms Practical Projects Beginners to pro;<br>• C# Intermediate: Classes, Interfaces and OOP;<br>• Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noSQL, React, hooks, Redux, Design Patterns<br>AND +<br><br>>INTERMEDIARY ENGLISH</h4>
 
 ###
 
